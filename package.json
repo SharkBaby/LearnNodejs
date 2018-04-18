@@ -1,0 +1,25 @@
+{
+  "name": "1_nodejstry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1_NodeJsTry.js",
+  "dependencies": {
+    "async": "^2.6.0",
+    "cheerio": "^1.0.0-rc.2",
+    "cookie-parser": "^1.4.3",
+    "eventproxy": "^1.0.0",
+    "express": "^4.16.3",
+    "should": "^13.2.1",
+    "superagent": "^3.8.2",
+    "utility": "^1.13.1"
+  },
+  "devDependencies": {
+    "mocha": "^5.1.0",
+    "supertest": "^3.0.0"
+  },
+  "scripts": {
+    "test": "mocha-phantomjs index.html --ssl-protocol=any --ignore-ssl-errors=true"
+  },
+  "author": "1142320771@qq.com",
+  "license": "ISC"
+}

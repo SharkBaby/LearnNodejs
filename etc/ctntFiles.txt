@@ -1,0 +1,3 @@
+Hello, this is Content files from server side.
+
+Just want to test if it can be read by node js server side code.
