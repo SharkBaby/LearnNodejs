@@ -18,7 +18,7 @@
     "supertest": "^3.0.0"
   },
   "scripts": {
-    "test": "mocha-phantomjs index.html --ssl-protocol=any --ignore-ssl-errors=true"
+    "test": "istanbul cover node_modules/mocha/bin/_mocha"
   },
   "author": "1142320771@qq.com",
   "license": "ISC"
