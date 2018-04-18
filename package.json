@@ -14,6 +14,7 @@
     "utility": "^1.13.1"
   },
   "devDependencies": {
+    "istanbul": "^0.4.5",
     "mocha": "^5.1.0",
     "supertest": "^3.0.0"
   },
